@@ -1,0 +1,2 @@
+sK3MLbvjWk8KXMv0
+mongodb+srv://wd7576383:<password>@cluster0.ct5vlhg.mongodb.net/
